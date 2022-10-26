@@ -1,0 +1,198 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/imac/Desktop/KJG328_Ending the Rental Web_White Paper v4 Folder/Document fonts/AdobeFnt23.lst
+FileLength:4507
+FileModTime:671105817
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowCondensed-Regular
+FamilyName:Barlow Condensed
+StyleName:Regular
+MenuName:Barlow Condensed
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Barlow Condensed Regular
+WritingScript:Roman
+OutlineFileName:/Users/imac/Desktop/KJG328_Ending the Rental Web_White Paper v4 Folder/Document fonts/BarlowCondensed-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:96696
+FileModTime:671087971
+NameArray:0,Win,1,Barlow Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/imac/Desktop/KJG328_Ending the Rental Web_White Paper v4 Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:217280
+FileModTime:671087955
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Black
+FamilyName:Montserrat
+StyleName:Black
+MenuName:Montserrat Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Black
+WritingScript:Roman
+OutlineFileName:/Users/imac/Desktop/KJG328_Ending the Rental Web_White Paper v4 Folder/Document fonts/Montserrat-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:275192
+FileModTime:671087977
+NameArray:0,Mac,4,Montserrat Black
+NameArray:0,Win,1,Montserrat Black
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Bold
+FamilyName:Montserrat
+StyleName:Bold
+MenuName:Montserrat
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Bold
+WritingScript:Roman
+OutlineFileName:/Users/imac/Desktop/KJG328_Ending the Rental Web_White Paper v4 Folder/Document fonts/Montserrat-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:244468
+FileModTime:671087955
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ExtraBold
+FamilyName:Montserrat
+StyleName:ExtraBold
+MenuName:Montserrat ExtraBold
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Montserrat ExtraBold
+WritingScript:Roman
+OutlineFileName:/Users/imac/Desktop/KJG328_Ending the Rental Web_White Paper v4 Folder/Document fonts/Montserrat-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:262108
+FileModTime:671087971
+NameArray:0,Mac,4,Montserrat ExtraBold
+NameArray:0,Win,1,Montserrat ExtraBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Medium
+FamilyName:Montserrat
+StyleName:Medium
+MenuName:Montserrat Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Medium
+WritingScript:Roman
+OutlineFileName:/Users/imac/Desktop/KJG328_Ending the Rental Web_White Paper v4 Folder/Document fonts/Montserrat-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:243180
+FileModTime:671087971
+NameArray:0,Win,1,Montserrat Medium
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Regular
+FamilyName:Montserrat
+StyleName:Regular
+MenuName:Montserrat
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Regular
+WritingScript:Roman
+OutlineFileName:/Users/imac/Desktop/KJG328_Ending the Rental Web_White Paper v4 Folder/Document fonts/Montserrat-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:263192
+FileModTime:671087976
+NameArray:0,Mac,4,Montserrat Regular
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-SemiBold
+FamilyName:Montserrat
+StyleName:SemiBold
+MenuName:Montserrat SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Montserrat SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/imac/Desktop/KJG328_Ending the Rental Web_White Paper v4 Folder/Document fonts/Montserrat-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:243816
+FileModTime:671087968
+NameArray:0,Win,1,Montserrat SemiBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
